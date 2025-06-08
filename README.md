@@ -84,10 +84,12 @@ php artisan make:module {table_name} --route={route_name}
 
 
 *Livewire component*
+<br>
 ![live_wire](images/live_wire.png)
 
 
 *API only controller*
+<br>
 ![api_controller](images/api_controller.png)
 
 
